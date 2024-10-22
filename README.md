@@ -1,11 +1,10 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Krishnakanth Alagiri (Him/He) 🌻
-- 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
-- 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
-- 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
-- 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
-- ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
+## 罗华东  (Him/He) 🌻
+- 🔭 这里是 罗华东 (@Ronan) 的个人Github，与你一起发现更大的世界。
+- 👯 我在[我的博客](https://blog.ronan.us.kg/)中写我感兴趣的技术。
+- 📫 **如何联系我**: [微博](https://weibo.com/u/5995159469) 或者 [微信](RonanRowe)
+- ⚡ **令人难以置信的事实**：我的第一句话是“你好，世界”。 
 
 <details>
 <summary>
