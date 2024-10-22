@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center"><img src="https://imgs.ronan.us.kg/echozap_github_profile_top.gif"/></p>
 
 ## 罗华东  (Him/He) 🌻
 - 🔭 这里是 罗华东 (@Ronan) 的个人Github，与你一起发现更大的世界。  <img align= "right" width= "250" src= "https://imgs.ronan.us.kg/echozap_github_profile_code.gif"/>
